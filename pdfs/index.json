@@ -1,22 +1,22 @@
 [
   {
-    "file": "lecture-L1A.view.pdf",
-    "title": "L1A: Introduction; Elements of Programming (view)"
-  },
-  {
-    "file": "lecture-L1A.print.pdf",
-    "title": "L1A: Introduction; Elements of Programming (print)"
-  },
-  {
-    "file": "reflection-R1.pdf",
-    "title": "R1: Elements of Programming"
+    "file": "lecture-L1B.print.pdf",
+    "title": "L1B: Runology (print)"
   },
   {
     "file": "lecture-L1B.view.pdf",
     "title": "L1B: Runology (view)"
   },
   {
-    "file": "lecture-L1B.print.pdf",
-    "title": "L1B: Runology (print)"
+    "file": "reflection-R1.pdf",
+    "title": "R1: Elements of Programming"
+  },
+  {
+    "file": "lecture-L1A.print.pdf",
+    "title": "L1A: Introduction; Elements of Programming (print)"
+  },
+  {
+    "file": "lecture-L1A.view.pdf",
+    "title": "L1A: Introduction; Elements of Programming (view)"
   }
 ]
