@@ -1,5 +1,17 @@
 [
   {
+    "file": "reflection-R3.pdf",
+    "title": "R3: Higher-Order Functions and Scope"
+  },
+  {
+    "file": "lecture-L3A.print.pdf",
+    "title": "L3A: Higher-order Functions; Scope of Names (print)"
+  },
+  {
+    "file": "lecture-L3A.view.pdf",
+    "title": "L3A: Higher-order Functions; Scope of Names (view)"
+  },
+  {
     "file": "studio-S3.pdf",
     "title": "S3: Recursion; Iterative and Recursive Processes"
   },
