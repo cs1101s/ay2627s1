@@ -1,5 +1,17 @@
 [
   {
+    "file": "reflection-R4.pdf",
+    "title": "R4: Data Abstraction"
+  },
+  {
+    "file": "lecture-L4A.print.pdf",
+    "title": "L4A: Introduction to Data Abstraction (print)"
+  },
+  {
+    "file": "lecture-L4A.view.pdf",
+    "title": "L4A: Introduction to Data Abstraction (view)"
+  },
+  {
     "file": "studio-S4.pdf",
     "title": "S4: Tree recursion"
   },
