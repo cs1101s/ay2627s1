@@ -1,5 +1,17 @@
 [
   {
+    "file": "reflection-R8.pdf",
+    "title": "R8: Mutable Data"
+  },
+  {
+    "file": "lecture-L8A.print.pdf",
+    "title": "L8A: Mutable Data, Lists, and Loops (print)"
+  },
+  {
+    "file": "lecture-L8A.view.pdf",
+    "title": "L8A: Mutable Data, Lists, and Loops (view)"
+  },
+  {
     "file": "studio-S8.pdf",
     "title": "S8: Streams"
   },
