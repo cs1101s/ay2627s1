@@ -1,5 +1,17 @@
 [
   {
+    "file": "reflection-R10.pdf",
+    "title": "R10: Searching and Sorting II; Memoization"
+  },
+  {
+    "file": "lecture-L10A.print.pdf",
+    "title": "L10A: Searching and Sorting II; Memoization (print)"
+  },
+  {
+    "file": "lecture-L10A.view.pdf",
+    "title": "L10A: Searching and Sorting II; Memoization (view)"
+  },
+  {
     "file": "studio-S10.pdf",
     "title": "S10: CPS, Function Objects, and Loops"
   },
