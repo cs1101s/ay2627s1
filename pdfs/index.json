@@ -1,5 +1,13 @@
 [
   {
+    "file": "lecture-L11B.print.pdf",
+    "title": "L11B: Metacircular Evaluator I (print)"
+  },
+  {
+    "file": "lecture-L11B.view.pdf",
+    "title": "L11B: Metacircular Evaluator I (view)"
+  },
+  {
     "file": "reflection-R11.pdf",
     "title": "R11: Streams"
   },
