@@ -1,5 +1,9 @@
 [
   {
+    "file": "studio-S12.pdf",
+    "title": "S12: Modifying the Metacircular Evaluator"
+  },
+  {
     "file": "lecture-L11B.print.pdf",
     "title": "L11B: Metacircular Evaluator I (print)"
   },
