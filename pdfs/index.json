@@ -1,5 +1,13 @@
 [
   {
+    "file": "lecture-L12A.print.pdf",
+    "title": "L12A: Metacircular Evaluator II (print)"
+  },
+  {
+    "file": "lecture-L12A.view.pdf",
+    "title": "L12A: Metacircular Evaluator II (view)"
+  },
+  {
     "file": "studio-S12.pdf",
     "title": "S12: Modifying the Metacircular Evaluator"
   },
