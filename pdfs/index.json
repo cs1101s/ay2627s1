@@ -1,5 +1,9 @@
 [
   {
+    "file": "reflection-R12.pdf",
+    "title": "R12: Metacircular Evaluator"
+  },
+  {
     "file": "lecture-L12A.print.pdf",
     "title": "L12A: Metacircular Evaluator II (print)"
   },
