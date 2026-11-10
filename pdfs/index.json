@@ -1,5 +1,17 @@
 [
   {
+    "file": "reflection-R13.pdf",
+    "title": "R13: Typed Python"
+  },
+  {
+    "file": "lecture-L13A.print.pdf",
+    "title": "L13A: Types, Classes, and Objects (print)"
+  },
+  {
+    "file": "lecture-L13A.view.pdf",
+    "title": "L13A: Types, Classes, and Objects (view)"
+  },
+  {
     "file": "reflection-R12.pdf",
     "title": "R12: Metacircular Evaluator"
   },
